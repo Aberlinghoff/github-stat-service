@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Binary output
+bin/
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
